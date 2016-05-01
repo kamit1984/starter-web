@@ -8,5 +8,7 @@ Introudction text
 # Second paragraph:wq
 
 ## Purpose
+Git more text
 
 Sample website with plenty of files for demos
+This text is not added
